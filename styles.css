@@ -1,0 +1,30 @@
+h1
+{
+   font-family: italica;
+   color: black;
+   font-size: 70px;
+}
+h4
+{
+   font-family: italica;
+   color: black;
+   font-size: 40px;
+}
+p
+{
+  color: black;
+  font-family: courier;
+  font-size: 20px;
+  text-align: justify
+}
+ul
+{
+  color: black;
+  font-family: courier;
+  font-size: 20px;
+  text-align: justify
+}
+body
+{
+  background-color: white;
+}
