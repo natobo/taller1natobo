@@ -2,7 +2,13 @@ h1
 {
    font-family: italica;
    color: black;
-   font-size: 70px;
+   font-size: 90px;
+}
+h2
+{
+   font-family: italica;
+   color: black;
+   font-size: 40px;
 }
 h4
 {
@@ -24,7 +30,24 @@ ul
   font-size: 20px;
   text-align: justify
 }
+label
+{
+  font-family: courier;
+}
+input
+{
+  font-family: courier;
+}
+small
+{
+  font-family: courier;
+}
+button
+{
+  font-family: courier;
+}
 body
 {
-  background-color: white;
+  background-image: url(https://image.freepik.com/vector-gratis/fondo-pincel-acrilico-abstracto-azul-textura-fondo_53876-86373.jpg);
+  background-size: cover;
 }
